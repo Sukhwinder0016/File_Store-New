@@ -30,7 +30,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "sukhwindersandhu00445")
 # check my discription to help by using my refer link of shareus.io
 # 
 
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "https://scoutlinks.rglinks.net")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "scoutlinks.rglinks.net")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "995b0a2580f1b1dbd9250a09aa4c141c29f31e2f")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")

@@ -30,10 +30,10 @@ DB_NAME = os.environ.get("DATABASE_NAME", "sukhwindersandhu00445")
 # check my discription to help by using my refer link of shareus.io
 # 
 
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "scoutlinks.rglinks.net")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "995b0a2580f1b1dbd9250a09aa4c141c29f31e2f")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "modijiurl.com")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "0b12741fb3894a59ca534181f8fb60a83b107b38")
 VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
-IS_VERIFY = os.environ.get("IS_VERIFY", "False")
+IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID", "https://t.me/OttSandhu") # shareus ka tut_vid he 
 
 #force sub channel id, if you want enable force sub
